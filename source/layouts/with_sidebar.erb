@@ -1,0 +1,11 @@
+<% wrap_layout :layout do %>
+  <div class="row">
+    <div class="d-none d-md-block col-md-2 offset-lg-1">
+      <%= partial "lists" %>
+    </div>
+
+    <div class="col-md-10 col-lg-8">
+      <%= yield %>
+    </div>
+  </div>
+<% end %>
