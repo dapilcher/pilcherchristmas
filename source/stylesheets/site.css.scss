@@ -26,6 +26,10 @@ nav {
   text-shadow: 1px 1px 2px #333;
 }
 
+.fa-star {
+  text-shadow: none;
+}
+
 .fa.christmas-tree {
   font-size: 3rem;
 }
@@ -38,6 +42,6 @@ nav {
   text-shadow: 0px 0px 1rem hsl(0, 100%, 100%);
 }
 
-.red { color: red; }
+.red { color:$ruby; }
 .green { color: green; }
 .blue { color: blue; }
