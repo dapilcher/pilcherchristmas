@@ -20,6 +20,10 @@ nav {
 
 .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
   color: $snow;
+
+  .spinner {
+    animation: spin 2s linear infinite;
+  }
 }
 
 .navbar-light .navbar-brand {
@@ -27,8 +31,13 @@ nav {
   text-shadow: 1px 1px 2px #333;
 }
 
+// .spinner {
+//   transition: transform 1s;
+// }
+
 .fa-star {
-  text-shadow: none;
+  text-shadow: 0px 0px 2rem $golden;
+  animation: shine 1s linear infinite alternate;
 }
 
 .fa.christmas-tree {
@@ -47,3 +56,13 @@ nav {
 .green { color: $spruce; }
 .blue { color: $my-blue; }
 .gold { color: $golden; }
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(359deg); }
+}
+
+@keyframes shine {
+  from { text-shadow: 0px 0px 2rem $golden; }
+  to { text-shadow: 0px 0px 4rem $golden; }
+}
