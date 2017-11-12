@@ -2,80 +2,100 @@
 title: Doug's List
 ---
 
-#Doug's List
+## Doug's List
 
 ---
 
-- http://devstickers.com - some fun stocking stuffers:
-  - <http://devstickers.com/info/javascript-n1wi>
-  - <http://devstickers.com/info/html5-css3-kl2t>
-  - <http://devstickers.com/info/vuejs-quf1>
-  - <http://devstickers.com/info/angular2-eq4x>
-  - <http://devstickers.com/info/ruby-hc51>
-  - <http://devstickers.com/info/python-ptow>
-  - <http://devstickers.com/info/android-ait1>
-  - <http://devstickers.com/info/java-8geo>
-  - <http://devstickers.com/info/git-myha>
-  - <http://devstickers.com/info/text-editors-5tul>
-- Money for developer courses. I’ve listed a few here that I’ve been looking at recently. This is not so much a gift as an investment in my future :)
-  - [ES6 for Everyone][es6] (I might get this before Christmas [I’ve been very occupied with JavaScript lately and I’m very excited about this one], but feel free to reimburse me)
-  - [React for Beginners][react]
-  - [Learn Node][node]
-- <https://fieldnotesbrand.com/>
-  - Annual sub
-  - [Desk kit][desk kit]
-  - [Dime novel][dime novel] (if we missed the fall sub)
-  - [Campfire][campfire]
-  - [Original Kraft][kraft] is always good. Lined or graph or mixed pack.
-  - [Pens!][pens] (out of stock at the time of writing, but maybe they’ll be back soon?)
-- Speaking of pens…
-  - [Machine Era Field Pen][me field pen] - Stainless or black
-  - [Fisher Space Bullet Pen][bullet pen] in matte black (w/ [clip][clip]) ([Field Notes edition][fn bullet pen] is also an option)
-  - [Fisher Space Telescoping Pen][telescoping pen]
-- [Leatherman Wingman](https://www.amazon.com/Leatherman-Wingman-Multi-Tool-Stainless-Steel/dp/B005DI0XM4/?tag=bg999-20)
-- Videojuegos - I’m attempting to transition to all-digital, so below are some games I would like, but I would prefer a digital download codes (if you order a digital copy online from Amazon, Gamestop, etc.) or giftcard for each system’s respective store (listed in parentheses)
-	- Nintendo Switch (Nintendo eShop)
-		- Super Mario Odyssey
-		- Skyrim
-		- Mario Kart Deluxe 8
-		- The Binding of Isaac
-	- 3DS (also Nintendo eShop)
-		- Metroid: Samus Returns
-	- PlayStation 4 (PlayStation Store)
-		- BioShock: the Collection
-		- Middle-Earth: Shadow of War
-		- Monster Hunter World (pre-order)
-- Books
-	- [Dune - Frank Herbert][dune]
-	- [The Dark Tower I: The Gunslinger - Stephen King][dark tower]
-	- [The Name of the Wind - Patrick Rothfuss][name of the wind]
-	- [Chronicles of Narnia Box Set][narnia]
-	- [Harry Potter Box Set][harry potter]
-	- Just about anything by Philip K Dick. Some ideas:
-		- [Do Androids Dream of Electric Sheep?][androids]
-		- The VALIS trilogy
-			- [VALIS][valis]
-			- [The Divine Invasion][divine invasion]
-			- [The Transmigration of Timothy Archers][transmigration]
-		- [A Scanner Darkly][scanner darkly]
-		- [Flow My Tears, the Policeman Said][flow my tears]
-		- [Ubik][ubik]
-		- [The Three Stigmata of Palmer Eldritch][stigmata]
-- Google toys
-	- [Pixel Buds][pixel buds]
-	- [Daydream View][daydream]
-	- [Chromecast][chromecast]
-- [King’s Coast Coffee][kings coast] - Coarse Grind (French press)
-	- [King’s Bounty][kings bounty]
-	- [Get Woke Roast][get woke]
-	- [EZ Morning Roast][ez morning]
-- Gundam models
-	- I made an [amazon list](http://a.co/am3aQb8) of some I’m interested in. They are also sold at Barnes and Noble and some game/hobby shops
-- Gift Card ideas:
-	- Google Play
-	- Nintendo eShop
-	- PlayStation Store
-	- Barnes and Noble
+I couldn't think of anything for my list... then I thought of a million things. So sorry for the long list, but that just means plenty of choices for you to pick from :)
+
+##### [devstickers](http://devstickers.com) - some fun stocking stuffers:
+- [Javascript](http://devstickers.com/info/javascript-n1wi)
+- [HTML/CSS](http://devstickers.com/info/html5-css3-kl2t)
+- [Vue](http://devstickers.com/info/vuejs-quf1)
+- [Angular](http://devstickers.com/info/angular2-eq4x)
+- [Ruby](http://devstickers.com/info/ruby-hc51)
+- [Python](http://devstickers.com/info/python-ptow)
+- [Android](http://devstickers.com/info/android-ait1)
+- [Java](http://devstickers.com/info/java-8geo)
+- [Git](http://devstickers.com/info/git-myha)
+- [Brackets](http://devstickers.com/info/text-editors-5tul)
+
+##### Money for developer courses
+
+I’ve listed a few here that I’ve been looking at recently. This is not so much a gift as an investment in my future :)
+
+- [ES6 for Everyone][es6] 
+	- I might get this before Christmas [I’ve been very occupied with JavaScript lately and I’m very excited about this one], but feel free to reimburse me :)
+- [React for Beginners][react]
+- [Learn Node][node]
+
+##### [Field Notes](https://fieldnotesbrand.com/)
+- Annual sub
+- [Desk kit][desk kit]
+- [Dime novel][dime novel] (if we missed the fall sub)
+- [Campfire][campfire]
+- [Original Kraft][kraft] is always good. Lined or graph or mixed pack.
+- [Pens!][pens] (out of stock at the time of writing, but maybe they’ll be back soon?)
+
+##### Speaking of pens…
+- [Machine Era Field Pen][me field pen] - Stainless or black
+- [Fisher Space Bullet Pen][bullet pen] in matte black (w/ [clip][clip]) ([Field Notes edition][fn bullet pen] is also an option)
+- [Fisher Space Telescoping Pen][telescoping pen]
+
+##### [Leatherman Wingman](https://www.amazon.com/Leatherman-Wingman-Multi-Tool-Stainless-Steel/dp/B005DI0XM4/?tag=bg999-20)
+
+##### Videojuegos
+
+I’m attempting to transition to all-digital, so below are some games I would like, but I would prefer a digital download code (if you order a digital copy online from Amazon, Gamestop, etc.) or giftcard for each system’s respective store (listed in parentheses)
+
+- Nintendo Switch (Nintendo eShop)
+	- Super Mario Odyssey
+	- Skyrim
+	- Mario Kart Deluxe 8
+	- The Binding of Isaac
+- 3DS (also Nintendo eShop)
+	- Metroid: Samus Returns
+- PlayStation 4 (PlayStation Store)
+	- BioShock: the Collection
+	- Middle-Earth: Shadow of War
+	- Monster Hunter World (pre-order)
+
+##### Books
+- [Dune - Frank Herbert][dune]
+- [The Dark Tower I: The Gunslinger - Stephen King][dark tower]
+- [The Name of the Wind - Patrick Rothfuss][name of the wind]
+- [Chronicles of Narnia Box Set][narnia]
+- [Harry Potter Box Set][harry potter]
+- Just about anything by Philip K Dick. Some ideas:
+	- [Do Androids Dream of Electric Sheep?][androids]
+	- The VALIS trilogy
+		- [VALIS][valis]
+		- [The Divine Invasion][divine invasion]
+		- [The Transmigration of Timothy Archers][transmigration]
+	- [A Scanner Darkly][scanner darkly]
+	- [Flow My Tears, the Policeman Said][flow my tears]
+	- [Ubik][ubik]
+	- [The Three Stigmata of Palmer Eldritch][stigmata]
+
+##### Google toys
+- [Pixel Buds][pixel buds]
+- [Daydream View][daydream]
+- [Chromecast][chromecast]
+
+##### [King’s Coast Coffee][kings coast] - Coarse Grind (French press)
+- [King’s Bounty][kings bounty]
+- [Get Woke Roast][get woke]
+- [EZ Morning Roast][ez morning]
+
+##### Gundam models
+
+I made an [amazon list](http://a.co/am3aQb8) of some I’m interested in. They are also sold at Barnes and Noble and some game/hobby shops
+
+##### Gift Card ideas:
+- Google Play
+- Nintendo eShop
+- PlayStation Store
+- Barnes and Noble
 
 [es6]: https://es6.io
 [react]: https://reactforbeginners.com

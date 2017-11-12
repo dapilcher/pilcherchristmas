@@ -5,6 +5,12 @@ html {
   background-color: $snow;
 }
 
+@media(max-width: 767px) {
+  html {
+    font-size: 14px;
+  }
+}
+
 body {
   .main { margin: 1rem; }
   font-family: 'Open Sans', sans-serif;
