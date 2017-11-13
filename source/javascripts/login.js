@@ -30,13 +30,12 @@ const passField = document.querySelector('#pass-text');
 const errorMessage = document.querySelector('#pass-error');
 
 function checkPass () {
-  console.log('checkPass');
+  pass = passField.value;
+  passField.value = "";
   hideError();
-  if (passField.value != 'dreyfus on whetstone') {
-    console.log('error');
+  if (pass != 'dreyfus on whetstone') {
     displayError();
   } else {
-    console.log('set cookie, redirect');
     setCookie("loggedIn", "true", 6);
     window.location.replace("/");
   }
