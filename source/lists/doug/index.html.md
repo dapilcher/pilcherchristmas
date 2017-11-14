@@ -66,6 +66,7 @@ I’m attempting to transition to all-digital, so below are some games I would l
 - [The Name of the Wind - Patrick Rothfuss][name of the wind]
 - [Chronicles of Narnia Box Set][narnia]
 - [Harry Potter Box Set][harry potter]
+- [Watchmen][watchmen]
 - Just about anything by Philip K Dick. Some ideas:
 	- [Do Androids Dream of Electric Sheep?][androids]
 	- The VALIS trilogy
@@ -81,6 +82,10 @@ I’m attempting to transition to all-digital, so below are some games I would l
 - [Pixel Buds][pixel buds]
 - [Daydream View][daydream]
 - [Chromecast][chromecast]
+
+##### [Chemex Coffeemaker](http://www.chemexcoffeemaker.com)
+- [Starter Kit](http://www.chemexcoffeemaker.com/starter-kit.html)
+- [Handblown Water Kettle](http://www.chemexcoffeemaker.com/handblown-water-kettle-81.html)
 
 ##### [King’s Coast Coffee][kings coast] - Coarse Grind (French press)
 - [King’s Bounty][kings bounty]
@@ -115,6 +120,7 @@ I made an [amazon list](http://a.co/am3aQb8) of some I’m interested in. They a
 [name of the wind]: https://www.amazon.com/Name-Wind-Anniversary-Kingkiller-Chronicle/dp/0756413710/ref=sr_1_1?s=books&ie=UTF8&qid=1510326757&sr=1-1&keywords=patrick+rothfuss&dpID=511xW8Ol2yL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch
 [narnia]: https://www.amazon.com/C-Lewis-Chronicles-Full-Color-Collectors/dp/B0086IPSGO/ref=sr_1_5?s=books&ie=UTF8&qid=1510325023&sr=1-5&keywords=narnia+box&dpID=41VnnIrFJQL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch
 [harry potter]: https://www.amazon.com/Harry-Potter-Complete-Special-Rowling/dp/B01DMC29U6/ref=sr_1_10?s=books&ie=UTF8&qid=1510324972&sr=1-10&keywords=harry+potter+box
+[watchmen]: https://www.amazon.com/Watchmen-Alan-Moore/dp/1401245250/ref=sr_1_1?s=books&ie=UTF8&qid=1510676169&sr=1-1&keywords=watchmen&dpID=313cFTb5BFL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch
 [androids]: https://www.amazon.com/Androids-Dream-Electric-Sheep-inspiration/dp/0345404475/ref=sr_1_1?s=books&ie=UTF8&qid=1510326544&sr=1-1&keywords=do+androids+dream+of+electric+sheep&dpID=41U97Qj7iML&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch
 [valis]: https://www.amazon.com/VALIS-Valis-Trilogy-Philip-Dick/dp/0547572417/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=7Z32GSSQ1XHNZK6WTZJH
 [divine invasion]: https://www.amazon.com/Divine-Invasion-Valis-Trilogy/dp/0547572425/ref=pd_sim_14_1?_encoding=UTF8&psc=1&refRID=7Z32GSSQ1XHNZK6WTZJH
