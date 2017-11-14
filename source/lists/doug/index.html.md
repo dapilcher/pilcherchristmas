@@ -30,9 +30,9 @@ I’ve listed a few here that I’ve been looking at recently. This is not so mu
 - [Learn Node][node]
 
 ##### [Field Notes](https://fieldnotesbrand.com/)
-- Annual sub
+- Annual sub (starting with the new winter release, [Resolution](https://fieldnotesbrand.com/products/resolution))
 - [Desk kit][desk kit]
-- [Dime novel][dime novel] (if we missed the fall sub)
+- [Dime novel][dime novel]
 - [Campfire][campfire]
 - [Original Kraft][kraft] is always good. Lined or graph or mixed pack.
 - [Pens!][pens] (out of stock at the time of writing, but maybe they’ll be back soon?)
