@@ -6,4 +6,4 @@ title: Ellen's List
 
 ---
 
-Sorry, no list yet
+[Amazon wishlist](http://a.co/8osKDyp)
