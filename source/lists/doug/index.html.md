@@ -83,6 +83,9 @@ I’m attempting to transition to all-digital, so below are some games I would l
 - [Daydream View][daydream]
 - [Chromecast][chromecast]
 
+##### Apple toys
+- [Magic keyboard][magic keyboard]
+
 ##### [Chemex Coffeemaker](http://www.chemexcoffeemaker.com)
 - [Starter Kit](http://www.chemexcoffeemaker.com/starter-kit.html)
 - [Handblown Water Kettle](http://www.chemexcoffeemaker.com/handblown-water-kettle-81.html)
@@ -132,6 +135,7 @@ I made an [amazon list](http://a.co/am3aQb8) of some I’m interested in. They a
 [pixel buds]: https://store.google.com/product/google_pixel_buds
 [daydream]: https://store.google.com/product/google_daydream_view
 [chromecast]: https://store.google.com/product/chromecast_2015
+[magic keyboard]: https://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english?fnode=56
 [kings coast]: https://www.kingscoastcoffee.com/coffee/
 [kings bounty]: https://kings-coast-coffee-co.myshopify.com/products/kings-bounty?variant=2406442237980
 [get woke]: https://kings-coast-coffee-co.myshopify.com/products/professor-bromans-get-woke-roast?variant=972026904604
